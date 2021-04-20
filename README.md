@@ -41,11 +41,13 @@
 - 人前で話すことに抵抗ない。
 
 ## 最近取り組んだこと/取り組んでいること
+- Flutterを使ったアプリ・Web開発
 - Github Actionsを使ったCI環境の構築
 - Xcodeのスペルチェックツールの作成([XcodeSpellChecker](https://github.com/u5-03/XcodeSpellChecker))
 - Macの環境構築の自動化スクリプトの作成/主要コマンドのAlias化
 
 ## 技術的に興味があるもの
+- Flutter/dart
 - Server-Side-Swift
 - ARKit
 - Python
