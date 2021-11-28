@@ -13,13 +13,14 @@
 |Github|[u5-03](https://github.com/u5-03)|
 |Twitter|[u5_03](https://twitter.com/u5_03)|
 |Qiita|[u5_03](https://qiita.com/u5_03)|
+|Blog|[U Log](https://ulog.sugiy.com)|
 ## スキル
 ### 言語
 - Swift
 - Typescript
 
 ### フレームワーク/ライブラリ
-
+- Flutter
 - Ionic
 - Angular
 - RxSwift
@@ -55,6 +56,11 @@
 - ラズパイを使った家のIoT化
 
 ## 職務経歴(入社日付の降順)
+### 2021/07 - : 株式会社ACES
+職務: モバイルアプリ開発(業務委託)
+
+### 2021/05 - 2021/08: プログラミングジャパン
+職務: iOSモバイルアプリ開発の講師(業務委託)
 
 ### 2020/04 - : SHOWROOM株式会社
 職務: モバイルアプリの開発
