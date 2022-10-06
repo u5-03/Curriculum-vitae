@@ -1,0 +1,4 @@
+How to convrt README.md to pdf
+
+1. Install VSCode extensions 'Markdown PDF'
+2. Open 'README.md' and open command palette(Cmd + Shift + P) > export PDF
