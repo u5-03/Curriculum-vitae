@@ -94,3 +94,7 @@
 ## 登壇履歴
 - [iOSDC2022](https://fortee.jp/iosdc-japan-2022/proposal/841f38a0-f3e4-4b39-b14c-de6f80521eee)
   - [Swiftで我が家を より便利に、安全に!](https://ulog.sugiy.com/iosdc-swift-home/)
+- [iOSDC2023](https://fortee.jp/iosdc-japan-2023/proposal/9a09cb96-25c7-4f80-9171-702e98bacbdd)
+  - [SwiftでAppleを育ててみた](https://ulog.sugiy.com/iosdc-swift-garden/)
+- [iOSDC2024](https://fortee.jp/iosdc-japan-2024/proposal/f3bde85d-b84a-4347-a940-d22e5f8c1c16)
+  - [我が家に電子ピアノがやってきたので、ピアノと連携するアプリを作ってみた！](https://ulog.sugiy.com/iosdc-swift-piano/)
